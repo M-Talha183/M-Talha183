@@ -2,25 +2,12 @@
 <h3 align="center">CS Student | Frontend Developer | Python & Data Science Enthusiast | Exploring Agentic AI</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/M-Talha183/M-Talha183/main/assets/banner.png" alt="Banner" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/muhammad-talha-4b17522bb">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <img src="https://img.shields.io/badge/University-SMIU-blue?style=flat-square&logo=academia&logoColor=white" alt="SMIU Badge" />
   <img src="https://img.shields.io/badge/PITP-NED-orange?style=flat-square&logo=codeforces&logoColor=white" alt="PITP Badge" />
   <img src="https://img.shields.io/github/followers/M-Talha183?label=GitHub&style=social" alt="GitHub Followers" />
-</p>
-
-<h1 align="center">👋 Hi, I'm Muhammad Talha</h1>
-<h3 align="center">CS Student | Frontend Developer | Python & Data Science Enthusiast | Exploring Agentic AI</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/University-SMIU-blue?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/PITP-NED-orange?style=flat-square&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/M-Talha183?label=GitHub&style=social" />
 </p>
 
 ---
@@ -92,8 +79,12 @@
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-talha-4b17522bb"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/M-Talha183"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-talha-4b17522bb">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/M-Talha183">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---

@@ -45,6 +45,19 @@
 
 ---
 
+## 💻 Projects
+
+| Project | GitHub Repo | Live Demo |
+|---------|-------------|-----------|
+| Burger Web | [Repo](https://github.com/M-Talha183/milestone-3-2-Burger-web) | [Live](https://milestone-3-2-burger-web.vercel.app/) |
+| Resume Builder | [Repo](https://github.com/M-Talha183/resume-builder/tree/main/milestone1%262) | [Live](https://hackhtonmilestone-1-2.vercel.app/) |
+| Dynamic Blog | [Repo](https://github.com/M-Talha183/milestone-3-1-dynamic-Blog) | [Live](https://milestone-3-1-dynamic-blog.vercel.app/) |
+| Portfolio | [Repo](https://github.com/M-Talha183/portfolioo) | [Live](https://portfolioo-jet-iota.vercel.app/) |
+| Scooter App | [Repo](https://github.com/M-Talha183/scooter-nextjs) | [Live](https://scooter-nextjs.vercel.app/) |
+| Music App | [Repo](https://github.com/M-Talha183/Music-Nextjs) | [Live](https://music-nextjs-sage.vercel.app/) |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">

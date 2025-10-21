@@ -47,14 +47,47 @@
 
 ## 💻 Projects
 
-| Project | GitHub Repo | Live Demo |
-|---------|-------------|-----------|
-| Burger Web | [Repo](https://github.com/M-Talha183/milestone-3-2-Burger-web) | [Live](https://milestone-3-2-burger-web.vercel.app/) |
-| Resume Builder | [Repo](https://github.com/M-Talha183/resume-builder/tree/main/milestone1%262) | [Live](https://hackhtonmilestone-1-2.vercel.app/) |
-| Dynamic Blog | [Repo](https://github.com/M-Talha183/milestone-3-1-dynamic-Blog) | [Live](https://milestone-3-1-dynamic-blog.vercel.app/) |
-| Portfolio | [Repo](https://github.com/M-Talha183/portfolioo) | [Live](https://portfolioo-jet-iota.vercel.app/) |
-| Scooter App | [Repo](https://github.com/M-Talha183/scooter-nextjs) | [Live](https://scooter-nextjs.vercel.app/) |
-| Music App | [Repo](https://github.com/M-Talha183/Music-Nextjs) | [Live](https://music-nextjs-sage.vercel.app/) |
+<p align="center">
+  <b>Click the buttons to explore the project repositories and live demos!</b>
+</p>
+
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Repo</th>
+<th>Live Demo</th>
+</tr>
+<tr>
+<td>Burger Web 🍔</td>
+<td><a href="https://github.com/M-Talha183/milestone-3-2-Burger-web"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://milestone-3-2-burger-web.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
+</tr>
+<tr>
+<td>Resume Builder 📄</td>
+<td><a href="https://github.com/M-Talha183/resume-builder/tree/main/milestone1%262"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://hackhtonmilestone-1-2.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
+</tr>
+<tr>
+<td>Dynamic Blog ✍️</td>
+<td><a href="https://github.com/M-Talha183/milestone-3-1-dynamic-Blog"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://milestone-3-1-dynamic-blog.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
+</tr>
+<tr>
+<td>Portfolio 🌐</td>
+<td><a href="https://github.com/M-Talha183/portfolioo"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://portfolioo-jet-iota.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
+</tr>
+<tr>
+<td>Scooter App 🛵</td>
+<td><a href="https://github.com/M-Talha183/scooter-nextjs"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://scooter-nextjs.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
+</tr>
+<tr>
+<td>Music App 🎵</td>
+<td><a href="https://github.com/M-Talha183/Music-Nextjs"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://music-nextjs-sage.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
+</tr>
+</table>
 
 ---
 

@@ -5,6 +5,9 @@
   <img src="https://img.shields.io/badge/University-SMIU-blue?style=flat-square&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/PITP-NED-orange?style=flat-square&logo=codeforces&logoColor=white" />
   <img src="https://img.shields.io/github/followers/M-Talha183?label=GitHub&style=social" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-Talha183&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 </p>
 
 ---

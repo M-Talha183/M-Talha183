@@ -76,7 +76,7 @@
 <tr>
 <td>Portfolio 🌐</td>
 <td><a href="https://github.com/M-Talha183/portfolioo"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
-<td><a href="https://portfolioo-jet-iota.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
+<td><a href="https://portfolioo-m-talha.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
 </tr>
 <tr>
 <td>Scooter App 🛵</td>

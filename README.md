@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/University-SMIU-blue?style=flat-square&logo=academia&logoColor=white" />
   <img src="https://img.shields.io/badge/PITP-NED-orange?style=flat-square&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/M-Talha183?label=GitHub&style=social" />
+  <img src="https://img.shields.io/github/followers/MuhammadTalha183?label=GitHub&style=social" />
 
 </p>
 
@@ -60,32 +60,32 @@
 </tr>
 <tr>
 <td>Burger Web 🍔</td>
-<td><a href="https://github.com/M-Talha183/milestone-3-2-Burger-web"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://github.com/MuhammadTalha183/milestone-3-2-Burger-web"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
 <td><a href="https://milestone-3-2-burger-web.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
 </tr>
 <tr>
 <td>Resume Builder 📄</td>
-<td><a href="https://github.com/M-Talha183/resume-builder/tree/main/milestone1%262"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://github.com/MuhammadTalha183/resume-builder/tree/main/milestone1%262"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
 <td><a href="https://hackhtonmilestone-1-2.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
 </tr>
 <tr>
 <td>Dynamic Blog ✍️</td>
-<td><a href="https://github.com/M-Talha183/milestone-3-1-dynamic-Blog"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://github.com/MuhammadTalha183/milestone-3-1-dynamic-Blog"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
 <td><a href="https://milestone-3-1-dynamic-blog.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
 </tr>
 <tr>
 <td>Portfolio 🌐</td>
-<td><a href="https://github.com/M-Talha183/portfolioo"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://github.com/MuhammadTalha183/portfolioo"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
 <td><a href="https://portfolioo-m-talha.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
 </tr>
 <tr>
 <td>Scooter App 🛵</td>
-<td><a href="https://github.com/M-Talha183/scooter-nextjs"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://github.com/MuhammadTalha183/scooter-nextjs"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
 <td><a href="https://scooter-nextjs.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
 </tr>
 <tr>
 <td>Music App 🎵</td>
-<td><a href="https://github.com/M-Talha183/Music-Nextjs"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
+<td><a href="https://github.com/MuhammadTalha183/Music-Nextjs"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
 <td><a href="https://music-nextjs-sage.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
 </tr>
 </table>
@@ -95,7 +95,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Talha183&show_icons=true&theme=github_dark&count_private=true&hide=prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTalha183&show_icons=true&theme=github_dark&count_private=true&hide=prs" alt="GitHub Stats" />
 </p>
 
 ---
@@ -103,7 +103,7 @@
 ## 🔝 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Talha183&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTalha183&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -111,11 +111,11 @@
 ## 🔥 Streak & Trophies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=M-Talha183&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MuhammadTalha183&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-Talha183&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadTalha183&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---

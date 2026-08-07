@@ -1,134 +1,179 @@
 <h1 align="center">👋 Hi, I'm Muhammad Talha</h1>
-<h3 align="center">CS Student | Frontend Developer | Python & Data Science Enthusiast | Exploring Agentic AI</h3>
+
+<h3 align="center">
+Computer Science Student • Backend Developer • PostgreSQL • Node.js • Exploring Agentic AI
+</h3>
+
+
+---
+
+# 👨‍💻 About Me
+
+🎓 I'm pursuing a **Bachelor of Science in Computer Science** at **Sindh Madressatul Islam University (SMIU)**.
+
+📚 I'm also a trainee in the **People's IT Program (PITP)** at **NED University**, where I've strengthened my software engineering and programming skills.
+
+💻 I'm passionate about **Backend Development**, building scalable web applications, designing REST APIs, and working with modern databases.
+
+🚀 Currently expanding my expertise in:
+
+- ⚡ Node.js & Express.js
+- 🗄️ PostgreSQL & Neon Database
+- 🔐 Authentication & Authorization
+- 🤖 Agentic AI & AI Automation
+- 🌐 Full-Stack Web Development
+
+I enjoy turning ideas into real-world applications while continuously learning new technologies.
+
+---
+
+# 🚀 Certifications
+
+🏅 **Python Programming** — People's IT Program (PITP), NED University
+
+🏅 **Data Science** — People's IT Program (PITP), NED University
+
+🧠 **Currently Learning**
+- Agentic AI
+- Advanced Backend Development
+- Authentication & Security
+- REST API Architecture
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University-SMIU-blue?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/PITP-NED-orange?style=flat-square&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/github/followers/MuhammadTalha183?label=GitHub&style=social" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap,react,nextjs" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+</p>
+
+---
+
+# 💻 Featured Projects
+
+🚀 **School Management System**
+- Complete Student Management
+- Teacher Management
+- Fee Management
+- PostgreSQL Database
+- Express.js Backend
+
+---
+
+🛵 **Scooter Rental System**
+- Full Backend API
+- PostgreSQL + Neon
+- RESTful Architecture
+- Authentication
+- CRUD Operations
+
+---
+
+📚 **Book Repository**
+- Free Programming Resources
+- Open Source Learning Materials
+
+---
+
+More exciting projects are coming soon...
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuhammadTalha183&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTalha183&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-🎓 I'm currently pursuing my **Bachelor's in Computer Science** at **Sindh Madressatul Islam University (SMIU)** and learning through the **People’s IT Program (PITP)** at **NED University**.
-
-💡 I enjoy building modern UIs, solving data problems, and exploring cutting-edge AI technologies.
-
----
-
-## 🚀 Certifications
-
-- ✔️ **Python Programming** – PITP @ NED University  
-- ✔️ **Data Science** – PITP @ NED University  
-- 🧠 Currently learning **Agentic AI** through **GIAIC**
-
----
-
-## 🛠️ Tech Stack
-
-<table align="center">
-  <tr>
-    <th>Languages</th>
-    <th>Frameworks & Tools</th>
-    <th>Libraries</th>
-  </tr>
-  <tr>
-    <td>HTML, CSS, JS</td>
-    <td>Tailwind CSS, Next.js</td>
-    <td>Pandas, NumPy, Matplotlib</td>
-  </tr>
-  <tr>
-    <td>Python (OOP)</td>
-    <td>Git, GitHub</td>
-    <td>—</td>
-  </tr>
-</table>
-
----
-
-## 💻 Projects
+# 🔥 Contribution Streak
 
 <p align="center">
-  <b>Click the buttons to explore the project repositories and live demos!</b>
-</p>
-
-<table align="center">
-<tr>
-<th>Project</th>
-<th>Repo</th>
-<th>Live Demo</th>
-</tr>
-<tr>
-<td>Burger Web 🍔</td>
-<td><a href="https://github.com/MuhammadTalha183/milestone-3-2-Burger-web"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
-<td><a href="https://milestone-3-2-burger-web.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
-</tr>
-<tr>
-<td>Resume Builder 📄</td>
-<td><a href="https://github.com/MuhammadTalha183/resume-builder/tree/main/milestone1%262"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
-<td><a href="https://hackhtonmilestone-1-2.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
-</tr>
-<tr>
-<td>Dynamic Blog ✍️</td>
-<td><a href="https://github.com/MuhammadTalha183/milestone-3-1-dynamic-Blog"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
-<td><a href="https://milestone-3-1-dynamic-blog.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
-</tr>
-<tr>
-<td>Portfolio 🌐</td>
-<td><a href="https://github.com/MuhammadTalha183/portfolioo"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
-<td><a href="https://portfolioo-m-talha.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
-</tr>
-<tr>
-<td>Scooter App 🛵</td>
-<td><a href="https://github.com/MuhammadTalha183/scooter-nextjs"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
-<td><a href="https://scooter-nextjs.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
-</tr>
-<tr>
-<td>Music App 🎵</td>
-<td><a href="https://github.com/MuhammadTalha183/Music-Nextjs"><img src="https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github" /></a></td>
-<td><a href="https://music-nextjs-sage.vercel.app/"><img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel" /></a></td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTalha183&show_icons=true&theme=github_dark&count_private=true&hide=prs" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=MuhammadTalha183&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔝 Top Languages
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTalha183&layout=compact&theme=github_dark&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=MuhammadTalha183&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 </p>
 
 ---
 
-## 🔥 Streak & Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadTalha183&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadTalha183&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTalha183&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Let's Connect
+# 🌱 Currently Learning
+
+- 🔐 Authentication & Authorization
+- 🗄️ Database Optimization
+- ⚙️ Scalable Backend Architecture
+- 🤖 Agentic AI
+- ☁️ Cloud Deployment
+- 🐳 Docker
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-talha-4b17522bb"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MuhammadTalha183"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<a href="https://github.com/MuhammadTalha183">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-talha-4b17522bb">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 💬 Quote I Live By
+# 💭 Developer Philosophy
 
-> "_Keep learning, keep building._"
+> **"Code with purpose. Learn continuously. Build solutions that create impact."** 🚀
+
+---
